@@ -1,5 +1,7 @@
 # India Climate Change Dashboard
 
+**Live Dashboard:** https://climate-change-dashboard-notwukcj366npnnuxmhjz3.streamlit.app
+
 An interactive Streamlit dashboard tracking India's climate change indicators — temperature anomalies, rainfall patterns and extreme weather events from 1990 to 2023.
 
 ## Overview
